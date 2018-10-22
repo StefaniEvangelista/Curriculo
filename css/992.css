@@ -1,3 +1,4 @@
+
 @media (min-width: 992px) {
     body {
       padding-top: 0;
@@ -58,7 +59,7 @@
     #sideNav .navbar-collapse .navbar-nav .nav-item {
       display: block;
     }
-    #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link {
+    #sideNav .navbar-collapse .navbar-nav  .nav-link {
       display: block;
     }
   }
@@ -81,11 +82,11 @@
   }
   
   .bg-primary {
-    background-color: rgb(199, 101, 62) !important;
+    background-color:rgba(141, 5, 5, 0.822) !important;
   }
   
   .text-primary {
-    color: #BD5D38 !important;
+    color: rgba(141, 5, 5, 0.822) !important;
   }
   
   a {

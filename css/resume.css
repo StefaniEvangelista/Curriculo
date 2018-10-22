@@ -49,7 +49,7 @@ p.lead {
   height: 3.5rem;
   width: 3.5rem;
   background-color: #495057;
-  color: #fff !important;
+  color: #fff ;
   border-radius: 100%;
   text-align: center;
   font-size: 1.5rem;
@@ -62,7 +62,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: #BD5D38;
+  background-color:#BD5D38;
 }
 
 .dev-icons {
@@ -80,5 +80,5 @@ p.lead {
 }
 
 #sideNav .navbar-toggler:focus {
-  outline-color: #d48a6e;
+  outline-color: brown;
 }
